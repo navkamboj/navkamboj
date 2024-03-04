@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Angular, Javascipt**
 
-- 💬 Ask me about **Software testing, Problem solving**
+- 💬 Ask me about ** Frontend technologies, Software testing, Problem solving**
 
 - 📫 How to reach me **navjotkamboj0206@gmail.com**
 
